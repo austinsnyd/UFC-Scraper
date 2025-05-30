@@ -20,6 +20,10 @@ SQLAlchemy – for database handling
 
 Matplotlib / Seaborn – for visualization
 
+PySpark - Communication with BigQuery 
+
+Google BigQuery - Data storager and partitioning
+
 🧩 Features
 Scrapes:
 
