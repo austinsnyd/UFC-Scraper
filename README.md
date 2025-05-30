@@ -22,7 +22,7 @@ Matplotlib / Seaborn – for visualization
 
 PySpark - Communication with BigQuery 
 
-Google BigQuery - Data storager and partitioning
+Google BigQuery - Data storage and partitioning
 
 🧩 Features
 Scrapes:
