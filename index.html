@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UFC Fight Data Scraper</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0 20px;
+      color: #333;
+    }
+    header {
+      background-color: #111;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    code, pre {
+      background: #eee;
+      padding: 10px;
+      display: block;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+    a {
+      color: #0066cc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🥋 UFC Fight Data Scraper</h1>
+    <p>Comprehensive UFC fight stat extraction and organization</p>
+  </header>
+
+  <section>
+    <h2>💡 Project Overview</h2>
+    <p>This project automates the extraction of UFC fight statistics from <a href="http://www.ufcstats.com/statistics/events/completed" target="_blank">ufcstats.com</a>. It scrapes data on events and fights using Selenium and Python, organizes the results into structured formats (CSV, JSON, and SQL), and finally uploads the cleaned data to Google BigQuery for advanced analytics.</p>
+    <p>You can read the full project write-up here: <a href="scrapepaper.pdf" target="_blank">scrapepaper.pdf</a></p>
+  </section>
+
+  <section>
+    <h2>📂 Project Structure</h2>
+    <pre><code>UFC-Scraper/
+├── connectors/           # Scripts to load/export data
+│   ├── cards_to_excel.py
+│   ├── ufctosql.py
+│   ├── updateDB.py
+│   └── UFC_Data.db
+├── scraping-scripts/     # Core scraping logic
+│   ├── gettitles.py
+│   ├── getfights.py
+│   ├── fighttotals.py
+│   ├── sigstrikes.py
+│   └── UFC_scrape.py
+├── tests/                # Test scripts and mock data
+│   ├── cards_test.csv
+│   ├── event_details_test.csv
+│   ├── fights_test.csv
+│   ├── fights_to_excel.py
+│   └── testbs.py
+├── UFC_main_pull.py      # Master script to run full scrape
+├── UFC_fight_data.xlsx   # Sample output
+├── scrape_paper.pdf      # Documentation from class</code></pre>
+  </section>
+
+  <section>
+    <h2>🔧 Key Features</h2>
+    <ul>
+      <li>Scrapes event metadata, fight-level statistics, and detailed strike breakdowns</li>
+      <li>Stores data in SQLite, Excel, CSV, and JSON formats</li>
+      <li>Modular function design for extensibility</li>
+      <li>Includes test scripts and mock data for validation</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📊 Tools Used</h2>
+    <ul>
+      <li>Python (Selenium, Pandas, SQLAlchemy)</li>
+      <li>SQLite & Excel</li>
+      <li>Matplotlib / Seaborn (for future visualizations)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🎯 Goals</h2>
+    <ul>
+      <li>Streamline UFC betting research</li>
+      <li>Build a full historical fighter database</li>
+      <li>Enable side-by-side fighter comparison tools</li>
+    </ul>
+  </section>
+
+</body>
+</html>

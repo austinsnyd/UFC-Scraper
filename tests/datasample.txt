@@ -1,0 +1,89 @@
+LOSS|Alberta Cerra Leon|0|1|0|0|Open Weight|SUB|1|9:51|UFC 2: No Way Out
+WIN|Orlando Wiet|0|8|0|0|Open Weight|KO/TKO|1|2:50|UFC 2: No Way Out
+LOSS|Robert Lucarelli|0|2|1|1|Open Weight|KO/TKO|1|2:50|UFC 2: No Way Out
+WIN|Frank Hamaker|0|2|1|3|Open Weight|SUB|1|4:52|UFC 2: No Way Out
+LOSS|Thaddeus Luster|0|0|0|0|Open Weight|SUB|1|4:52|UFC 2: No Way Out
+WIN|Johnny Rhodes|0|11|1|0|Open Weight|KO/TKO|1|12:13|UFC 2: No Way Out
+LOSS|David Levicki|0|4|0|0|Open Weight|KO/TKO|1|12:13|UFC 2: No Way Out
+WIN|Patrick Smith|0|1|0|1|Open Weight|SUB|1|0:58|UFC 2: No Way Out
+LOSS|Ray Wizard|0|1|0|0|Open Weight|SUB|1|0:58|UFC 2: No Way Out
+WIN|Scott Morris|0|1|1|1|Open Weight|SUB|1|0:20|UFC 2: No Way Out
+LOSS|Sean Daugherty|0|0|0|0|Open Weight|SUB|1|0:20|UFC 2: No Way Out
+
+
+Jack Hermansson|121 of 235|51|74 of 174|15 of 23|32 of 38|111 of 219|5 of 6|5 of 10|UFC Fight Night: Hermansson vs. Pyfer
+Joe Pyfer|92 of 250|36|56 of 196|25 of 34|11 of 20|92 of 250|0 of 0|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Dan Ige|11 of 19|57|4 of 11|2 of 3|5 of 5|10 of 18|0 of 0|1 of 1|UFC Fight Night: Hermansson vs. Pyfer
+Andre Fili|8 of 33|24|7 of 28|1 of 5|0 of 0|8 of 33|0 of 0|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Robert Bryczek|32 of 133|24|19 of 103|10 of 24|3 of 6|30 of 127|2 of 6|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Ihor Potieria|67 of 168|39|47 of 139|5 of 12|15 of 17|61 of 156|6 of 12|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Brad Tavares|37 of 84|44|28 of 70|4 of 9|5 of 5|36 of 83|1 of 1|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Gregory Rodrigues|71 of 123|57|53 of 102|8 of 9|10 of 12|64 of 114|7 of 9|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Michael Johnson|61 of 112|54|16 of 47|36 of 52|9 of 13|58 of 109|0 of 0|3 of 3|UFC Fight Night: Hermansson vs. Pyfer
+Darrius Flowers|33 of 64|51|10 of 31|9 of 12|14 of 21|29 of 60|1 of 1|3 of 3|UFC Fight Night: Hermansson vs. Pyfer
+Rodolfo Vieira|6 of 11|54|4 of 6|0 of 2|2 of 3|6 of 11|0 of 0|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Armen Petrosyan|9 of 20|45|1 of 10|1 of 3|7 of 7|9 of 20|0 of 0|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Trevin Giles|68 of 102|66|25 of 51|2 of 2|41 of 49|67 of 100|1 of 2|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Carlos Prates|37 of 72|51|3 of 24|18 of 26|16 of 22|37 of 72|0 of 0|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Bolaji Oki|60 of 152|39|51 of 139|5 of 8|4 of 5|58 of 145|1 of 4|1 of 3|UFC Fight Night: Hermansson vs. Pyfer
+Timmy Cuamba|33 of 94|35|20 of 67|8 of 14|5 of 13|26 of 86|5 of 6|2 of 2|UFC Fight Night: Hermansson vs. Pyfer
+Loma Lookboonmee|58 of 112|51|15 of 52|29 of 38|14 of 22|47 of 98|11 of 14|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Bruna Brasil|28 of 63|44|9 of 39|12 of 16|7 of 8|22 of 55|6 of 8|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Devin Clark|53 of 127|41|36 of 106|13 of 16|4 of 5|49 of 120|4 of 7|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Marcin Prachnio|101 of 189|53|42 of 113|37 of 51|22 of 25|78 of 156|23 of 33|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Max Griffin|26 of 53|49|21 of 48|4 of 4|1 of 1|24 of 51|2 of 2|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Jeremiah Wells|32 of 86|37|27 of 76|5 of 7|0 of 3|32 of 85|0 of 1|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Zac Pauga|17 of 26|65|7 of 13|2 of 5|8 of 8|14 of 22|3 of 4|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Bogdan Guskov|10 of 29|34|10 of 29|0 of 0|0 of 0|10 of 29|0 of 0|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Fernie Garcia|26 of 79|32|22 of 75|3 of 3|1 of 1|25 of 78|1 of 1|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Hyder Amil|79 of 144|54|60 of 121|14 of 17|5 of 6|58 of 109|3 of 9|18 of 26|UFC Fight Night: Hermansson vs. Pyfer
+Daniel Marcos|81 of 126|64|50 of 84|12 of 19|19 of 23|69 of 113|5 of 6|7 of 7|UFC Fight Night: Hermansson vs. Pyfer
+Aoriqileng|45 of 95|47|26 of 71|10 of 12|9 of 12|43 of 93|2 of 2|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Daniel Marcos|81 of 126|64|50 of 84|12 of 19|19 of 23|69 of 113|5 of 6|7 of 7|UFC Fight Night: Hermansson vs. Pyfer
+Aoriqileng|45 of 95|47|26 of 71|10 of 12|9 of 12|43 of 93|2 of 2|0 of 0|UFC Fight Night: Hermansson vs. Pyfer
+Roman Dolidze|34 of 152|22|14 of 113|8 of 13|12 of 26|32 of 145|2 of 7|0 of 0|UFC Fight Night: Dolidze vs. Imavov
+Nassourdine Imavov|112 of 189|59|71 of 132|24 of 38|17 of 19|67 of 129|13 of 16|32 of 44|UFC Fight Night: Dolidze vs. Imavov
+Renato Moicano|23 of 42|54|20 of 39|2 of 2|1 of 1|10 of 27|1 of 2|12 of 13|UFC Fight Night: Dolidze vs. Imavov
+Drew Dober|23 of 59|38|17 of 50|4 of 7|2 of 2|19 of 52|1 of 1|3 of 6|UFC Fight Night: Dolidze vs. Imavov
+
+
+
+WIN|Joshua Burkman|0|7|0|1|Welterweight|SUB|1|1:07|UFC Fight Night 3
+LOSS|Drew Fickett|0|2|0|0|Welterweight|SUB|1|1:07|UFC Fight Night 3
+WIN|Chris Leben|1|10|1|0|Middleweight|KO/TKO|1|1:44|UFC Fight Night 3
+LOSS|Jorge Rivera|0|5|0|0|Middleweight|KO/TKO|1|1:44|UFC Fight Night 3
+WIN|Josh Neer|0|3|1|2|Welterweight|SUB|1|4:20|UFC Fight Night 3
+LOSS|Melvin Guillard|0|11|2|0|Welterweight|SUB|1|4:20|UFC Fight Night 3
+WIN|Duane Ludwig|1|1|0|0|Welterweight|KO/TKO|1|0:06|UFC Fight Night 3
+LOSS|Jonathan Goulet|0|0|0|0|Welterweight|KO/TKO|1|0:06|UFC Fight Night 3
+WIN|Spencer Fisher|0|25|0|0|Welterweight|KO/TKO|1|5:00|UFC Fight Night 3
+
+http://ufcstats.com/fight-details/e65da830a1928fe6|120|0
+http://ufcstats.com/fight-details/f7cd0a90da3be3b2|120|0
+http://ufcstats.com/fight-details/0b58bd40373b1811|120|0
+http://ufcstats.com/fight-details/ec8ad2966a6816b3|120|0
+http://ufcstats.com/fight-details/edeba52fc9b2855f|120|0
+http://ufcstats.com/fight-details/59bd4e83d8f846ee|120|0
+http://ufcstats.com/fight-details/09b36c7157770516|120|0
+http://ufcstats.com/fight-details/52e07b6540fad19e|120|0
+http://ufcstats.com/fight-details/bacb62c4f2058fd8|120|0
+
+
+http://ufcstats.com/event-details/bd85ca0bb4f26cfc|UFC 297: Strickland vs. Du Plessis|2024-01-20 00:00:00.000000|Toronto, Ontario, Canada|675|0
+http://ufcstats.com/event-details/010986ee359fb863|UFC Fight Night: Ankalaev vs. Walker 2|2024-01-13 00:00:00.000000|Las Vegas, Nevada, USA|674|0
+http://ufcstats.com/event-details/a8e8587a06e73c87|UFC 296: Edwards vs. Covington|2023-12-16 00:00:00.000000|Las Vegas, Nevada, USA|673|0
+http://ufcstats.com/event-details/5ef0088c1b19beeb|UFC Fight Night: Song vs. Gutierrez|2023-12-09 00:00:00.000000|Las Vegas, Nevada, USA|672|0
+http://ufcstats.com/event-details/53e4e21f4c688801|UFC Fight Night: Dariush vs. Tsarukyan|2023-12-02 00:00:00.000000|Austin, Texas, USA|671|0
+http://ufcstats.com/event-details/3feed7d02711d8b7|UFC Fight Night: Allen vs. Craig|2023-11-18 00:00:00.000000|Las Vegas, Nevada, USA|670|0
+http://ufcstats.com/event-details/5a558ba1ff5e9121|UFC 295: Prochazka vs. Pereira|2023-11-11 00:00:00.000000|New York City, New York, USA|669|0
+http://ufcstats.com/event-details/7c4ec656d8fcb867|UFC Fight Night: Almeida vs. Lewis|2023-11-04 00:00:00.000000|Sao Paulo, Sao Paulo, Brazil|668|0
+http://ufcstats.com/event-details/13a0fb8fbdafb54f|UFC 294: Makhachev vs. Volkanovski 2|2023-10-21 00:00:00.000000|Abu Dhabi, Abu Dhabi, United Arab Emirates|667|0
+http://ufcstats.com/event-details/f3a078277b3b8ff4|UFC Fight Night: Yusuff vs. Barboza|2023-10-14 00:00:00.000000|Las Vegas, Nevada, USA|666|0
+http://ufcstats.com/event-details/c8a49ff2acb6f3c5|UFC Fight Night: Dawson vs. Green|2023-10-07 00:00:00.000000|Las Vegas, Nevada, USA|665|0
+http://ufcstats.com/event-details/c945adc22c2bfe8f|UFC Fight Night: Fiziev vs. Gamrot|2023-09-23 00:00:00.000000|Las Vegas, Nevada, USA|664|0
+http://ufcstats.com/event-details/8fa2b06572365321|UFC Fight Night: Grasso vs. Shevchenko 2|2023-09-16 00:00:00.000000|Las Vegas, Nevada, USA|663|0
+http://ufcstats.com/event-details/ece280745f8727b8|UFC 293: Adesanya vs. Strickland|2023-09-09 00:00:00.000000|Sydney, New South Wales, Australia|662|0
+http://ufcstats.com/event-details/ef61d9f5176b3200|UFC Fight Night: Gane vs. Spivac|2023-09-02 00:00:00.000000|Paris, Ile-de-France, France|661|0
+http://ufcstats.com/event-details/89a407032911e27e|UFC Fight Night: Holloway vs. The Korean Zombie|2023-08-26 00:00:00.000000|Kallang, Singapore|660|0
+http://ufcstats.com/event-details/2719f300b0439039|UFC 292: Sterling vs. O'Malley|2023-08-19 00:00:00.000000|Boston, Massachusetts, USA|659|0
+http://ufcstats.com/event-details/d2fa318f34d
